@@ -1,0 +1,67 @@
+{
+  "DBRecords": [
+    {
+      "userName": "Henry",
+      "isInEU": "No",
+      "activeTotal": 4,
+      "totalPurchases": 95,
+      "totalSpendEUR": 1100.4,
+      "payment": "Stripe",
+      "usedWebBrowser": "Brave"
+    },
+    {
+      "userName": "Iris",
+      "isInEU": "Yes",
+      "activeTotal": 6,
+      "totalPurchases": 180,
+      "totalSpendEUR": 2400.3,
+      "payment": "BitCoin",
+      "usedWebBrowser": "Firefox"
+    },
+    {
+      "userName": "Jack",
+      "isInEU": "No",
+      "activeTotal": 1,
+      "totalPurchases": 30,
+      "totalSpendEUR": 450.0,
+      "payment": "PayPal",
+      "usedWebBrowser": "Opera"
+    },
+    {
+      "userName": "Karen",
+      "isInEU": "Yes",
+      "activeTotal": 8,
+      "totalPurchases": 250,
+      "totalSpendEUR": 3200.75,
+      "payment": "VISA",
+      "usedWebBrowser": "Chrome"
+    },
+    {
+      "userName": "Liam",
+      "isInEU": "Yes",
+      "activeTotal": 3,
+      "totalPurchases": 70,
+      "totalSpendEUR": 900.2,
+      "payment": "PayPal",
+      "usedWebBrowser": "Firefox"
+    },
+    {
+      "userName": "Mia",
+      "isInEU": "No",
+      "activeTotal": 5,
+      "totalPurchases": 160,
+      "totalSpendEUR": 2050.5,
+      "payment": "BitCoin",
+      "usedWebBrowser": "Brave"
+    },
+    {
+      "userName": "Noah",
+      "isInEU": "Yes",
+      "activeTotal": 2,
+      "totalPurchases": 40,
+      "totalSpendEUR": 520.6,
+      "payment": "VISA",
+      "usedWebBrowser": "Opera"
+    }
+  ]
+}

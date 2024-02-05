@@ -1,0 +1,8 @@
+"userName","yearsActive","numberOfTotalPurchases","totalSpendEUR","isInEU","preferredPaymentMethod","usedWebBrowser"
+"Alice","5","120","1500.5","Yes","PayPal","null"
+"Bob","3","85","980.0","No","VISA","null"
+"Charlie","7","200","2200.75","Yes","BitCoin","null"
+"Diana","4","150","1850.2","No","Stripe","null"
+"Edward","6","170","2100.0","Yes","VISA","null"
+"Fiona","2","50","600.3","Yes","PayPal","null"
+"George","8","230","2500.6","No","BitCoin","null"
