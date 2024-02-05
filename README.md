@@ -33,15 +33,15 @@ This Universal Data Processor is a Java application crafted to efficiently manag
   CSVUtils<Student> csvUtils = new CSVUtils<>();
   StartingDataContainer<Student> container = csvUtils.readFromFile("path/to/csv", true, Student.class);
   csvUtils.listAllRecords(container.getData(), container.getHeader());
-  ```
+  
 
 - Example usage for CSV data processing:
  ```java
- JSONUtils<Student> jsonUtils = new JSONUtils<>();
- List<Student> students = jsonUtils.readDataFromFile("path/to/json", Student.class);
- jsonUtils.listAllFetchRecords(students);
+  JSONUtils<Student> jsonUtils = new JSONUtils<>();
+  List<Student> students = jsonUtils.readDataFromFile("path/to/json", Student.class);
+  jsonUtils.listAllFetchRecords(students);
  ```
--Libraries and mock data included in project.
+- Libraries and mock data included in project.
 
 ## Contribution
 - Your contributions are encouraged and appreciated! Fork this project to add features, fix bugs, or improve the documentation. Please submit a pull request with your enhancements for review.
