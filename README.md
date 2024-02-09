@@ -16,8 +16,6 @@ This Universal Data Processor is a Java application crafted to efficiently manag
 - **Design Patterns**: Strategy, Observer, and Adapter Patterns for versatile, responsive, and uniform data handling
 
 ## Implementation Details
-- **Strategy Pattern**: Facilitates the dynamic selection of data processing strategies based on file type without affecting client code.
-- **Observer Pattern**: Updates data processing tasks in real-time as file content changes, enhancing responsiveness.
 - **Adapter Pattern**: Integrates CSV and JSON data processing methods into a unified interface, allowing the client to interact with different data formats transparently.
 - **DataProcessor & WebDataProcessor Interfaces**: Define consistent operations for handling CSV and JSON data, ensuring the application's extensibility and maintainability.
 
